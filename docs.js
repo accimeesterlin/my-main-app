@@ -31,4 +31,8 @@ function add() {
     // TODO
 }
 
+function createCarrousell() {[
+  // TODO  
+]}
+
 add();
