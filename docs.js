@@ -26,3 +26,13 @@ function test() {
 }
 
 test();
+
+function add() {
+    // TODO
+}
+
+function createCarrousell() {[
+  // TODO  
+]}
+
+add();
