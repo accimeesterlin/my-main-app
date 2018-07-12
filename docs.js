@@ -26,3 +26,9 @@ function test() {
 }
 
 test();
+
+function add() {
+    // TODO
+}
+
+add();
